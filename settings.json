@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "newsever_1.aternos.me:31524",
+    "ip": "newsever_1.aternos.me",
     "port": 31524,
     "version": "1.21.11",
     "try-creative": false
