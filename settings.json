@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afsgbgg2",
+    "username": "server_manager",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "test1234-XVTw.aternos.me",
-    "port": 37028,
+    "ip": "newsever_1.aternos.me:31524",
+    "port": 31524,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Slobos"
     },
     "anti-afk": {
       "enabled": true,
