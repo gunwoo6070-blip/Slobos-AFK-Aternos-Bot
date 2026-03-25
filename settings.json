@@ -9,7 +9,7 @@
     "ip": "newsever_1.aternos.me",
     "port": 31524,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+  
+      
+        
       ]
     },
     "chat-log": true,
