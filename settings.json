@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "newsever_1.aternos.me",
-    "port": 31524,
-    "version": "1.21.11",
+    "ip": "gunwoo6070.aternos.me",
+    "port": 11269,
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
