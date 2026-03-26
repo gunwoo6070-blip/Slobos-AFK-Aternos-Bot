@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "server_manager",
+    "username": "server1manager",
     "password": "",
     "type": "offline"
   },
